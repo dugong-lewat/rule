@@ -1,7 +1,8 @@
 # NAME: Game
+# Creator: @dugong_lewat
 
 payload:
-## CODM
+## Call of Duty Mobile
   - DOMAIN-KEYWORD,https
   - DOMAIN-KEYWORD,codmsg
   - DOMAIN,sg.tdatamaster.com
@@ -79,5 +80,20 @@ payload:
   - DOMAIN-SUFFIX,riotcdn.net
   - DOMAIN-SUFFIX,riotgames.com
   - DOMAIN-SUFFIX,ac.pvp.net
-  - DOMAIN-SUFFIX,file.myqcloud.com
+  - DOMAIN-SUFFIX,myqcloud.com
   - DST-PORT,18001
+## Tower of Fantasy
+  - DOMAIN-SUFFIX,intlgame.com
+  - DOMAIN-SUFFIX,iegcom.com
+  - DOMAIN-SUFFIX,toweroffantasy-global.com
+  - DOMAIN-SUFFIX,centauriglobal.com
+  - DOMAIN-SUFFIX,us.api.globalgme.com
+  - DOMAIN,pb.cdn.sophon.intlgame.com
+  - IP-CIDR,10.234.68.94/32
+  - DST-PORT,30026
+  - DST-PORT,30031
+  - DST-PORT,30176
+## Wild Hunter
+  - DOMAIN,r1mxoinz.crhk.lbota.com
+  - DOMAIN,apisg.eskyfun.com
+  - DOMAIN,lmzh.it.repor.uaxex.com
