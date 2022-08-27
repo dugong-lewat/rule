@@ -70,3 +70,14 @@ payload:
   - DST-PORT,8086
   - DST-PORT,8011
   - DST-PORT,8000
+## Crossfire Warzone
+  - DOMAIN-SUFFIX,joycityglobal.com
+  - DOMAIN-SUFFIX,cloud.toast.com
+## Wild Rift
+  - DOMAIN,wildrift-na.akamaized.net
+  - DOMAIN-SUFFIX,wr.pvp.net
+  - DOMAIN-SUFFIX,riotcdn.net
+  - DOMAIN-SUFFIX,riotgames.com
+  - DOMAIN-SUFFIX,ac.pvp.net
+  - DOMAIN-SUFFIX,file.myqcloud.com
+  - DST-PORT,18001
