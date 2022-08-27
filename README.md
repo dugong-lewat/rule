@@ -1,9 +1,9 @@
 ## Rule Game Mobile
-Behavior: Classical
+behavior: classical
 ```
 https://raw.githubusercontent.com/dugong-lewat/rule/main/game.yaml
 ```
-Daftar rule game mobile:
+daftar rule game mobile:
 
 - CODM
 - Mobile Legend
