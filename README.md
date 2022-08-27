@@ -1,4 +1,5 @@
 ## Rule Game
+Behavior: Classical
 
 Daftar rule game:
 
