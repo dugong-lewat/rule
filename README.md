@@ -13,6 +13,6 @@ Daftar rule game:
 - Crossfire Warzone
 - LOL: Wild Rift
 - Tower of Fantasy
-- Wild Hinter
+- Wild Hunter 
 
 dipersilahkan untuk request rule game mana lagi
