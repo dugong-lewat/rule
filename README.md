@@ -1,7 +1,5 @@
 ## Rule Game
 
-Behavior: classical
-
 Daftar rule game:
 
 - CODM
