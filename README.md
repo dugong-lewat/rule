@@ -1,6 +1,8 @@
 ## Rule Game
 Behavior: Classical
-
+```
+https://raw.githubusercontent.com/dugong-lewat/rule/main/game.yaml
+```
 Daftar rule game:
 
 - CODM
