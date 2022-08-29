@@ -1,6 +1,5 @@
 # NAME: Game
 # Creator: @dugong_lewat
-# Behavior: classical
 
 payload:
 ## Call of Duty Mobile
@@ -98,3 +97,15 @@ payload:
   - DOMAIN,r1mxoinz.crhk.lbota.com
   - DOMAIN,apisg.eskyfun.com
   - DOMAIN,lmzh.it.repor.uaxex.com
+## Honkai Impact 3rd & Genshin Impact
+  - DOMAIN-SUFFIX,honkaiimpact3.com
+  - DOMAIN-SUFFIX,mihoyo.com
+  - DOMAIN-SUFFIX,hoyoverse.com
+  - DOMAIN-SUFFIX,yuanshen.com
+  - DOMAIN,hk-bundle-os-mihayo.akamaized.net
+  - DOMAIN,hk-bigfile-os-mihayo.akamaized.net
+  - IP-CIDR,52.77.50.120/32
+  - IP-CIDR,8.214.160.128/32
+  - IP-CIDR,8.211.158.0/23
+  - DST-PORT,16100
+  - DST-PORT,22101
