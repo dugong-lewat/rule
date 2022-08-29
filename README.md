@@ -13,6 +13,8 @@ daftar rule game mobile:
 - Crossfire Warzone
 - LOL: Wild Rift
 - Tower of Fantasy
-- Wild Hunter 
+- Wild Hunter
+- Honkai Impact 3rd
+- Genshin Impact
 
 dipersilahkan untuk request rule game mana lagi
