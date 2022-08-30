@@ -109,3 +109,14 @@ payload:
   - IP-CIDR,8.211.158.0/23
   - DST-PORT,16100
   - DST-PORT,22101
+## Line Lets Get Rich
+  - DOMAIN-SUFFIX,linegame.jp
+  - DOMAIN-SUFFIX,gcld-line.com
+  - DOMAIN,mpol-gd.line-apps.com
+  - DOMAIN,lan3rd.line.me
+  - DOMAIN,game-lggrth.line-scdn.net
+  - DOMAIN,api.line.me
+  - DOMAIN,hap.line-apps.com
+  - DOMAIN,cdn-lg.line-apps.com
+  - DOMAIN,scdn.line-apps.com
+  - DST-PORT,15603
