@@ -16,5 +16,6 @@ daftar rule game mobile:
 - Wild Hunter
 - Honkai Impact 3rd
 - Genshin Impact
+- Line Lets Get Rich
 
 dipersilahkan untuk request rule game mana lagi
