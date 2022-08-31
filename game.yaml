@@ -120,3 +120,14 @@ payload:
   - DOMAIN,cdn-lg.line-apps.com
   - DOMAIN,scdn.line-apps.com
   - DST-PORT,15603
+## Asphalt 9
+  - DOMAIN-SUFFIX,gameloft.com
+  - DOMAIN,sdk.frameplay.gg
+  - DST-PORT,33855
+  - DST-PORT,34689
+  - DST-PORT,46307
+  - DST-PORT,45359
+  - DST-PORT,45449
+  - DST-PORT,36129
+  - DST-PORT,52061
+  - DST-PORT,34689
