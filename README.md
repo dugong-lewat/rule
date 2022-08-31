@@ -17,5 +17,6 @@ daftar rule game mobile:
 - Honkai Impact 3rd
 - Genshin Impact
 - Line Lets Get Rich
+- Asphalt 9
 
 dipersilahkan untuk request rule game mana lagi
