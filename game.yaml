@@ -139,6 +139,9 @@ payload:
 ## Free Fire
   - DOMAIN-SUFFIX,freefiremobile.com
   - DOMAIN,freefiremobile-a.akamaihd.net
+  - IP-CIDR,124.158.134.83/32
+  - IP-CIDR,175.41.164.184/32
   - DST-PORT,10012
   - DST-PORT,39698
-  - DST-PORT,3980
+  - DST-PORT,39800
+  - DST-PORT,10012
