@@ -131,3 +131,8 @@ payload:
   - DST-PORT,36129
   - DST-PORT,52061
   - DST-PORT,34689
+## Minecraft
+  - DOMAIN-SUFFIX,minecraft-services.net
+  - DOMAIN-SUFFIX,xboxlive.com
+  - DOMAIN-KEYWORD,minecraft
+  - DOMAIN-SUFFIX,playfabapi.com
