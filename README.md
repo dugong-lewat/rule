@@ -19,5 +19,6 @@ daftar rule game mobile:
 - Line Lets Get Rich
 - Asphalt 9
 - Minecraft
+- Free Fire
 
 dipersilahkan untuk request rule game mana lagi
