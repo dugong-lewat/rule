@@ -18,5 +18,6 @@ daftar rule game mobile:
 - Genshin Impact
 - Line Lets Get Rich
 - Asphalt 9
+- Minecraft
 
 dipersilahkan untuk request rule game mana lagi
