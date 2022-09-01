@@ -136,3 +136,9 @@ payload:
   - DOMAIN-SUFFIX,xboxlive.com
   - DOMAIN-KEYWORD,minecraft
   - DOMAIN-SUFFIX,playfabapi.com
+## Free Fire
+  - DOMAIN-SUFFIX,freefiremobile.com
+  - DOMAIN,freefiremobile-a.akamaihd.net
+  - DST-PORT,10012
+  - DST-PORT,39698
+  - DST-PORT,3980
