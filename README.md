@@ -25,5 +25,7 @@ daftar rule game mobile:
 - Epic Seven
 - Destiny Girl
 - Blue Archive
-
+- Sky: Children of The Light
+- Shadowgun Legend
+- Apex Legend Mobile
 dipersilahkan untuk request rule game mana lagi
