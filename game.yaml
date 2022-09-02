@@ -1,7 +1,24 @@
-# NAME: Game
+# NAME: Game Mobile
 # Creator: @dugong_lewat
 
 payload:
+## Garena
+  - DOMAIN-SUFFIX,garena.co.id
+  - DOMAIN-SUFFIX,garena.co.th
+  - DOMAIN-SUFFIX,garena.com
+  - DOMAIN-SUFFIX,garena.live
+  - DOMAIN-SUFFIX,garena.my
+  - DOMAIN-SUFFIX,garena.ph
+  - DOMAIN-SUFFIX,garena.sg
+  - DOMAIN-SUFFIX,garena.tv
+  - DOMAIN-SUFFIX,garena.tw
+  - DOMAIN-SUFFIX,garena.vn
+  - DOMAIN-SUFFIX,garenanow.com
+  - DOMAIN-SUFFIX,seagroup.com
+  - DOMAIN,avatargarenanow-a.akamaihd.net
+  - DOMAIN,cdngarenanow-a.akamaihd.net
+  - DOMAIN,dlgarenanow-a.akamaihd.net
+  - DOMAIN,dlmobilegarena-a.akamaihd.net
 ## Call of Duty Mobile
   - DOMAIN-KEYWORD,https
   - DOMAIN-KEYWORD,codmsg
@@ -177,3 +194,27 @@ payload:
   - DOMAIN-SUFFIX,nexoncdn.co.kr
   - DOMAIN,d1xcyqc5pfiggd.cloudfront.net
   - DOMAIN,d2vaidpni345rp.cloudfront.net
+## Sky: Children of The Sky
+  - DOMAIN-SUFFIX,thatgamecompany.com
+  - DST-PORT,41283
+  - DST-PORT,40993
+  - DST-PORT,43048
+  - DST-PORT,42799
+  - DST-PORT,42051
+## Shadowgun Legend
+  - DOMAIN-SUFFIX,exitgames.com
+  - IP-CIDR,161.202.202.68/32
+  - IP-CIDR,149.154.167.0/16
+  - IP-CIDR,91.108.56.0/16
+  - DST-PORT,5055
+  - DST-PORT,5056
+## Apex Legend Mobile
+  - DOMAIN-SUFFIX,mgapex.com
+  - IP-CIDR,18.169.173.32/32
+  - IP-CIDR,34.88.122.144/32
+  - IP-CIDR,13.213.220.0/24
+  - IP-CIDR,18.170.22.126/32
+  - DST-PORT,11001
+  - DST-PORT,5692
+  - DST-PORT,10101
+  - DST-PORT,10048
