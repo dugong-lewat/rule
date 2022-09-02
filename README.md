@@ -28,4 +28,5 @@ daftar rule game mobile:
 - Sky: Children of The Light
 - Shadowgun Legend
 - Apex Legend Mobile
+
 dipersilahkan untuk request rule game mana lagi
