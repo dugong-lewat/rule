@@ -157,7 +157,7 @@ payload:
   - IP-CIDR,52.220.39.205/32
   - DST-PORT,50443
   - DST-PORT,2333
-## Azure Lane
+## Azur Lane
   - DOMAIN-SUFFIX,yo-star.com
   - DOMAIN-KEYWORD,yostar
 ## Epic Seven
