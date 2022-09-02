@@ -20,5 +20,10 @@ daftar rule game mobile:
 - Asphalt 9
 - Minecraft
 - Free Fire
+- Punishing: Gray Raven
+- Azur Lane
+- Epic Seven
+- Destiny Girl
+- Blue Archive
 
 dipersilahkan untuk request rule game mana lagi
