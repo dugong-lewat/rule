@@ -145,3 +145,35 @@ payload:
   - DST-PORT,39698
   - DST-PORT,39800
   - DST-PORT,10012
+## Punishing: Gray Raven
+  - DOMAIN,splash.unity.cn
+  - DOMAIN,glcs.listdl.com
+  - DOMAIN-SUFFIX,yingxiong.com
+  - DOMAIN-SUFFIX,kurogame.net
+  - DOMAIN-SUFFIX,herogame.com
+  - IP-CIDR,47.241.73.203/32
+  - IP-CIDR,47.241.99.122/32
+  - IP-CIDR,52.220.163.178/32
+  - IP-CIDR,52.220.39.205/32
+  - DST-PORT,50443
+  - DST-PORT,2333
+## Azure Lane
+  - DOMAIN-SUFFIX,yo-star.com
+  - DOMAIN-KEYWORD,yostar
+## Epic Seven
+  - DOMAIN-SUFFIX,playstove.com
+  - DOMAIN-SUFFIX,onstove.com
+  - DOMAIN-SUFFIX,smilegate.com
+  - DOMAIN-SUFFIX,smilegatemegaport.com
+  - DOMAIN,d2x8kymwjom7h7.cloudfront.net
+  - DST-PORT,3333
+## Destiny Girl
+  - DOMAIN-SUFFIX,next2playgames.com
+  - IP-CIDR,47.241.10.0/16
+  - DST-PORT,2676
+## Blue Archive
+  - DOMAIN-SUFFIX,nexon.io
+  - DOMAIN-SUFFIX,nexon.com
+  - DOMAIN-SUFFIX,nexoncdn.co.kr
+  - DOMAIN,d1xcyqc5pfiggd.cloudfront.net
+  - DOMAIN,d2vaidpni345rp.cloudfront.net
