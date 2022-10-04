@@ -1,6 +1,5 @@
 # NAME: Game Mobile
 # Creator: @dugong_lewat
-
 payload:
 ## Garena
   - DOMAIN-SUFFIX,garena.co.id
