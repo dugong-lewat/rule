@@ -30,5 +30,7 @@ daftar rule game mobile:
 - Apex Legend Mobile
 - Dragon Raja
 - Arknight
+- Ragnarok M: Eternal Love
+- Fashion Dream
 
 dipersilahkan untuk request rule game mana lagi
