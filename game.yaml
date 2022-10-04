@@ -1,5 +1,6 @@
 # NAME: Game Mobile
 # Creator: @dugong_lewat
+
 payload:
 ## Garena
   - DOMAIN-SUFFIX,garena.co.id
@@ -218,11 +219,11 @@ payload:
   - DST-PORT,10101
   - DST-PORT,10048
 ## Dragon Raja
- - DOMAIN-SUFFIX,zloong.com
- - DOMAIN-SUFFIX,xtracloud.net
- - IP-CIDR,91.108.56.0/17
- - IP-CIDR,157.240.208.16/32
- - DST-PORT,9228
- - DST-PORT,1883
+  - DOMAIN-SUFFIX,zloong.com
+  - DOMAIN-SUFFIX,xtracloud.net
+  - IP-CIDR,91.108.56.0/17
+  - IP-CIDR,157.240.208.16/32
+  - DST-PORT,9228
+  - DST-PORT,1883
 ## Arknight
- - DOMAIN-SUFFIX,arknights.global
+  - DOMAIN-SUFFIX,arknights.global
