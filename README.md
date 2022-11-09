@@ -32,5 +32,8 @@ daftar rule game mobile:
 - Arknight
 - Ragnarok M: Eternal Love
 - Fashion Dream
+- eFootball 2023
+- BLEACH: Eternal
+- T3 Arena
 
 dipersilahkan untuk request rule game mana lagi
