@@ -239,3 +239,19 @@ payload:
   - DOMAIN-SUFFIX,project-dress.com
   - DST-PORT,33018
   - DST-PORT,32016
+## eFootball 2023
+  - DOMAIN,www.applilink.jp
+  - DOMAIN,d1ln4m3c7n87ju.cloudfront.net
+  - DOMAIN-SUFFIX,konami.net
+  - DST-PORT,5521
+## BLEACH: Eternal
+  - DOMAIN-SUFFIX,efunen.com
+  - DOMAIN-SUFFIX,efun.com
+  - DST-PORT,14459
+## T3 Arena
+  - DOMAIN,xd.com
+  - DOMAIN,t3.xd.com
+  - DST-PORT,18888
+  - DST-PORT,18008
+  - DST-PORT,30008
+  - DST-PORT,30006
