@@ -20,7 +20,6 @@ payload:
   - DOMAIN,dlgarenanow-a.akamaihd.net
   - DOMAIN,dlmobilegarena-a.akamaihd.net
 ## Call of Duty Mobile
-  - DOMAIN-KEYWORD,https
   - DOMAIN-KEYWORD,codmsg
   - DOMAIN,sg.tdatamaster.com
   - DOMAIN,hsg.tdm.qq.com
