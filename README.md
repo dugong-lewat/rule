@@ -1,7 +1,7 @@
 ## Rule Game Mobile
 behavior: classical
 ```
-https://raw.githubusercontent.com/dugong- [x]lewat/rule/main/game.yaml
+https://raw.githubusercontent.com/dugong-lewat/rule/main/game.yaml
 ```
 daftar rule game mobile:
 
